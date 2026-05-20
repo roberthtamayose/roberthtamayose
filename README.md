@@ -9,13 +9,10 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🏢 Atuo como **Desenvolvedor Sênior** no **Grupo Promex Mais** desde 2020
-- 🔧 Especialista em **TOTVS Protheus** com ADVPL e TLPP
+- 🏢 Atuo como **Desenvolvedor full-stack** no **Grupo Promex Mais** 
 - 🌐 Fullstack com foco em **React**, **React Native** e **Node.js**
 - ☁️ Experiência em arquiteturas cloud com **AWS** e **Azure**
-- 🎓 Bacharel em **Sistemas de Informação** pela **UNICAMP**
-- 📚 MBA em **Full Stack Developer** pela Impacta Tecnologia (2025–2026)
-- 🌍 Português nativo · Inglês avançado
+- 🔧 Experiência em **TOTVS Protheus** com ADVPL e TLPP
 
 ---
 

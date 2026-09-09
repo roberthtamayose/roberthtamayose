@@ -16,16 +16,6 @@
 
 ---
 
-### 🏆 Conquistas
-
-| 🚀 Conquista | 📈 Resultado |
-|---|---|
-| Primeiro app mobile da empresa | +30% na aquisição de novos clientes |
-| Aprimoramento de integrações com e-commerce | -80% nos erros entre e-commerce e ERP |
-| Automação do processo de faturamento | -50% no tempo de faturamento de pedidos |
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
